@@ -2,7 +2,7 @@
 - 我们是来自华南理工大学的团队。我们作品中的代码放置于此仓库。
 - 要复现我们作品中的结果，请将此仓库克隆至本地，并运行`代码融合.ipynb`中的所有代码。
 ## 说明
-- 玉米期货的数据来源于Wind数据库；
+- 玉米期货的数据来源于Wind数据库
 - KDE核密度估计实现主要参考Scikit-Learn官方文档：https://scikit-learn.org/stable/modules/density.html
 - 数据可视化主要参考Matplotlib官方文档：https://matplotlib.org/
 - 蒙特卡洛马尔可夫（MCMC）实现主要参考知乎文章：https://zhuanlan.zhihu.com/p/37121528
